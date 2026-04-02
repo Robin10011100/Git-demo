@@ -5,4 +5,7 @@
             <title>Tes2t</title>
         </head>
     </div>
+    <div>
+        <h2>Test</h2>
+    </div>
 </template>
